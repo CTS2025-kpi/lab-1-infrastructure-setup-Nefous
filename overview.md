@@ -31,7 +31,7 @@
 
 ## Завдання 5
 **Файл:**  
-- [yaml file for task 5](Resources/lab1-task5.yaml)  
+- [Link](Resources/lab1-task5.yaml)  
 **Результат:**  
 ![Task 5](Screenshots/Task5.jpg)
 
@@ -45,7 +45,7 @@
 
 ## Завдання 7
 **Файл:**  
-- [yaml file for task 7](Resources/lab1-task7.yaml)  
+- [Link](Resources/lab1-task7.yaml)  
 **Результат:**  
 ![Task 7](Screenshots/Task7.jpg)
 
@@ -53,4 +53,4 @@
 
 ## Завдання 8
 **Результат:**  
-- [Task 8 ](Resources/lab1-task8.md)
+- [Link](Resources/lab1-task8.md)
