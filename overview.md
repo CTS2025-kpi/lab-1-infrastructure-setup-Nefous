@@ -31,9 +31,10 @@
 
 ## Завдання 5
 **Файл:**  
-[Link](Resources/lab1-task5.yaml)  
+[Посилання](Resources/lab1-task5.yaml)  
 **Результат:**  
 ![Task 5](Screenshots/Task5.jpg)
+![Stack 1](Screenshots/Stack1.jpg)  
 
 ---
 
@@ -45,12 +46,21 @@
 
 ## Завдання 7
 **Файл:**  
-[Link](Resources/lab1-task7.yaml)  
+[Посилання](Resources/lab1-task7.yaml)  
 **Результат:**  
-![Task 7](Screenshots/Task7.jpg)
+![Task 7](Screenshots/Task7.jpg) 
+![Stack 2](Screenshots/Stack2.jpg)
 
 ---
 
 ## Завдання 8
 **Результат:**  
-[Link](Resources/lab1-task8.md)
+[Посилання](Resources/lab1-task8.md)
+
+## Додатково 
+- Усі скріншоти знаходяться в папці [`Screenshots`](Screenshots/).  
+- Файли — у [`Resources`](Resources/).  
+
+---
+
+*** Роботу виконав студент групи КІ-22 Гулеватий Владислав ***
