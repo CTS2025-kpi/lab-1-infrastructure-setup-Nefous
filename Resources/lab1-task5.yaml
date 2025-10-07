@@ -1,0 +1,48 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: >
+  Lab 1, task 5
+
+Resources:
+  # --- IAM Role ---
+  LabViewOnlyRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: IaC-ViewOnlyRole
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal:
+              AWS: arn:aws:iam::827445769634:user/viewer 
+            Action: sts:AssumeRole
+      Tags:
+        - Key: Name
+          Value: IaC-ViewOnlyRole
+
+  # --- IAM Policy ---
+  LabViewOnlyPolicy:
+    Type: AWS::IAM::Policy
+    Properties:
+      PolicyName: IaC-ViewOnlyPolicy
+      PolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Action:
+              - ec2:Describe*
+              - s3:List*
+              - s3:Get*
+              - iam:Get*
+              - iam:List*
+            Resource: "*"
+      Roles:
+        - !Ref LabViewOnlyRole
+
+Outputs:
+  RoleName:
+    Description: Role name
+    Value: !Ref LabViewOnlyRole
+
+  PolicyName:
+    Description: Policy name
+    Value: !Ref LabViewOnlyPolicy
