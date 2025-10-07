@@ -1,8 +1,10 @@
 # Лабораторна робота №1 
 
+---
+
 ## Завдання 1(б)
 **Результат:**  
-![Task 1](Screenshots/Task1.jpg)
+![Task 1](Screenshots/Task1.jpg)  
 ![Task 1 (додатково)](Screenshots/Task1b.jpg)
 
 ---
@@ -15,22 +17,21 @@
 
 ## Завдання 3
 **Результат:**  
-![Task 3](Screenshots/Task3.jpg)
+![Task 3](Screenshots/Task3.jpg)  
 ![Task 3 (додатково)](Screenshots/Task3.1.jpg)
 
 ---
 
 ## Завдання 4
 **Результат:**  
-![Task 4](Screenshots/Task4.jpg)
+![Task 4](Screenshots/Task4.jpg)  
 ![Task 4 (додатково)](Screenshots/Task4.1.jpg)
-
 
 ---
 
 ## Завдання 5
-**Файл:** 
-- - [Resources/lab1-task5.yaml](Screenshots/lab1-task5.yaml) 
+**Файл:**  
+- [yaml file for task 5](Resources/lab1-task5.yaml)  
 **Результат:**  
 ![Task 5](Screenshots/Task5.jpg)
 
@@ -43,8 +44,8 @@
 ---
 
 ## Завдання 7
-**Файл:**   
-- [Resources/lab1-task7.yaml](Screenshots/lab1-task7.yaml)  
+**Файл:**  
+- [yaml file for task 7](Resources/lab1-task7.yaml)  
 **Результат:**  
 ![Task 7](Screenshots/Task7.jpg)
 
@@ -52,4 +53,4 @@
 
 ## Завдання 8
 **Результат:**  
-- [Resources/lab1-task8.md](Screenshots/lab1-task8.md)
+- [Task 8 ](Resources/lab1-task8.md)
